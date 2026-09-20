@@ -1,2 +1,0 @@
-# Kaammilaga-
-Kaammilaga android app
